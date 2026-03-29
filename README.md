@@ -1,2 +1,1 @@
-﻿# ASIO-Ultra-drivers
-This repository is purely for hosting binary releases for the unified ASIO Ultra v7.0.0+ drivers.
+ASIO Ultra v7.0.0+ Unified Drivers - Standalone Binaries Package Repository.
